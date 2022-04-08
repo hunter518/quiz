@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Test</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="qui.css">
+  
+</head>
+
+<body onload="setTimeout(hide,2000)">
+  
+  <div class="start" id="change">
+    <h1>Let's Start</h1>
+  </div>
+  <div class="none" id="bonus">
+    <h1>bonus +3</h1>
+  </div>
+  <div id="progress-bar">
+    
+  </div>
+  <div class="column">
+    <div class="flex-center .flex-column">
+      <div class="hud">
+        <div class="hud-itme">
+          <p class="hud-pre">Question</p>
+          <p class="hud-text" id="questionCon"></p>
+          
+        </div>
+        <div class="hud-itme">
+          <p class="hud-pre">Score</p>
+          <p class="hud-text" id="score">0</p>
+        </div>
+      </div>
+      <h2 id="question">Question</h2>
+      <div class="first">
+        <p class="choice1">A)</p>
+        <p class="option" data-number="1">Option</p>
+        
+      </div>
+      <div class="first">
+        <p class="choice1">B)</p>
+        <p class="option" data-number="2">Option</p>
+      
+      </div>
+      <div class="first">
+        <p class="choice1">C)</p>
+        <p class="option" data-number="3">Option</p>
+        
+      </div>
+      <div class="first">
+        <p class="choice1">D)</p>
+        <p class="option" data-number="4">Option</p>
+        
+      </div>
+    </div>
+  </div>
+  
+  <script>
+
+    function hide() {
+      document.getElementById("change").classList.add("hide");
+      document.getElementById("progress-bar").style.display = "flex";
+    }
+  </script>
+  <script src="main.js"></script>
+  <script src="qui.js"></script>
+</body>
+
+</html>

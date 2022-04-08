@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Congratulation!!!</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        h1 {
+            color: #56a5eb;
+            text-shadow: 5px 2px 5px rgba(0, 0, 0, 0.7);
+        }
+
+        h3 {
+            text-shadow: 5px 2px 5px rgba(0, 0, 0, 0.7);
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="flex-center flex-column">
+            <h3>Your Score</h3>
+            <h1 id="highScore">0</h1>
+            <input type="text" id="user" class="" required><span  class="flex-center flex-column"></span><label for="user">Username</label>
+            <span id="warning"></span>
+            <button type="submit" class="btn" id="save" onclick="saveScore()">Submit</button>
+            <a href="index.html" class="btn">Go Home</a>
+            <a href="qui.html" class="btn">Play Again</a>
+        </div>
+    </div>
+    <script src="last.js"></script>
+
+</body>
+
+</html>

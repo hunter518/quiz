@@ -1,0 +1,82 @@
+[
+    {
+        "quistion": "In symmetric-key cryptography, the key locks and unlocks the box is",
+        "choice1": "private",
+        "choice2": "shared",
+        "choice3": "same",
+        "choice4": "public",
+        "answer": 3
+    },
+    {
+        "quistion": "The ciphers of today are called round ciphers because they involve",
+        "choice1": "Single Round",
+        "choice2": "Double Round",
+        "choice3": "Multiple Round",
+        "choice4": "Round about",
+        "answer": 3
+    },
+    {
+        "quistion": "Symmetric-key cryptography started thousands of years ago when people needed to exchange",
+        "choice1": "Secrets",
+        "choice2": "Packets",
+        "choice3": "Files",
+        "choice4": "Transmission",
+        "answer": 1
+    },
+    {
+        "quistion": "The relationship between a character in the plaintext to a character is",
+        "choice1": "many-to-one relationship",
+        "choice2": "one-to-many relationship",
+        "choice3": "many-to-many relationship",
+        "choice4": "None",
+        "answer": 2
+    },
+    {
+        "quistion": "Cryptography, a word with Greek origins, means",
+        "choice1": "Corrupting Data",
+        "choice2": "Secret Writing",
+        "choice3": "Open Writing",
+        "choice4": "Closed Writing",
+        "answer": 2
+    },
+    {
+        "quistion": "A transposition cipher reorders (permutes) symbols in a",
+        "choice1": "block of packets",
+        "choice2": "block of slots",
+        "choice3": "block of signals",
+        "choice4": "block of symbols",
+        "answer": 4
+    },
+    {
+        "quistion": "The keys used in cryptography are",
+        "choice1": "secret key",
+        "choice2": "private key",
+        "choice3": "public key",
+        "choice4": "All of the above",
+        "answer": 4
+    },
+    {
+        "quistion": "In Cryptography, when text is treated at the bit level, each character is replaced by",
+        "choice1": "4 Bits",
+        "choice2": "6 Bits",
+        "choice3": "8 Bits",
+        "choice4": "10 Bits",
+        "answer": 3
+    },
+    {
+        "quistion": "The Advanced Encryption Standard (AES) was designed",
+        "choice1": "IBM",
+        "choice2": "HP",
+        "choice3": "National Institute of Standards and Technology",
+        "choice4": "Intel",
+        "answer": 3
+    },
+    {
+        "quistion": "A small program that changes the way a computer operates.",
+        "choice1": "worm",
+        "choice2": "virus",
+        "choice3": "bomb",
+        "choice4": "trojan",
+        "answer": 2
+    }
+]

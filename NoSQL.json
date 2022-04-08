@@ -1,0 +1,82 @@
+[
+    {
+        "quistion": "Which of the following is not a NoSQL database?",
+        "choice1": "Cassandra",
+        "choice2": "MongoDB",
+        "choice3": "SQL Server",
+        "choice4": "None of the above",
+        "answer": 3
+    },
+    {
+        "quistion": "Which of the following is a nosql database type?",
+        "choice1": "SQL",
+        "choice2": "JSON",
+        "choice3": "Document Databases",
+        "choice4": "None of the above",
+        "answer": 3
+    },
+    {
+        "quistion": "Which of the following are the simplest NoSQL databases?",
+        "choice1": "Key-value",
+        "choice2": "Document",
+        "choice3": "Wide-column",
+        "choice4": "All of the above",
+        "answer": 1
+    },
+    {
+        "quistion": "What is the aim of nosql?",
+        "choice1": "NoSQL is not suitable for storing structured data.",
+        "choice2": "NoSQL is a new data format to store large datasets.",
+        "choice3": "NoSQL databases allow storing non-structured data.",
+        "choice4": "NoSQL provides an alternative to SQL databases to store textual data.",
+        "answer": 2
+    },
+    {
+        "quistion": "Which of the following is not a strong feature for nosql databases?",
+        "choice1": "Scalability",
+        "choice2": "Relational Data",
+        "choice3": "Faster data access than RDBMS",
+        "choice4": "Data easily held across multiple servers",
+        "answer": 2
+    },
+    {
+        "quistion": "Which of the following represent column in NoSQL __________.",
+        "choice1": "Field",
+        "choice2": "Database",
+        "choice3": "Collection",
+        "choice4": "Document",
+        "answer": 1
+    },
+    {
+        "quistion": "NoSQL can be referred to as .............",
+        "choice1": "No SQL",
+        "choice2": "Only SQL",
+        "choice3": "SQL undefined",
+        "choice4": "Not Only SQL",
+        "answer": 4
+    },
+    {
+        "quistion": "What is NoSQL database?",
+        "choice1": "NoSQL is a database is an enhanced form of RDBMS.",
+        "choice2": "NoSQL is database that is built with enhancements to DBMS.",
+        "choice3": "NoSQL is a database that is built on ways and means other than tables and columns.",
+        "choice4": "None of the Above",
+        "answer": 3
+    },
+    {
+        "quistion": "Which of the following is not a valid NoSQL database?",
+        "choice1": "Cassandra",
+        "choice2": "Scylla",
+        "choice3": "Handhoop / Hbase",
+        "choice4": "PostgreSQL",
+        "answer": 4
+    },
+    {
+        "quistion": "What are the types of nosql databases",
+        "choice1": "Document databases",
+        "choice2": "Key-value stores",
+        "choice3": "Graph & Column-oriented databases.",
+        "choice4": "All of the above",
+        "answer": 4
+    }
+]

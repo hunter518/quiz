@@ -1,0 +1,82 @@
+[
+    {
+        "quistion": "Which of the following is not an operating system?",
+        "choice1": "Windows",
+        "choice2": "Linux",
+        "choice3": "Oracle",
+        "choice4": "DOS",
+        "answer": 3
+    },
+    {
+        "quistion": "What is the maximum length of the filename in DOS?",
+        "choice1": "4",
+        "choice2": "5",
+        "choice3": "8",
+        "choice4": "12",
+        "answer": 3
+    },
+    {
+        "quistion": "When was the first operating system developed?",
+        "choice1": "1950",
+        "choice2": "1948",
+        "choice3": "1949",
+        "choice4": "1940",
+        "answer": 1
+    },
+    {
+        "quistion": "Which of the following is the extension of Notepad?",
+        "choice1": ".php",
+        "choice2": ".txt",
+        "choice3": ".xlx",
+        "choice4": ".ppt",
+        "answer": 2
+    },
+    {
+        "quistion": "What is the full name of FAT?",
+        "choice1": "File attribute table",
+        "choice2": "File allocation table",
+        "choice3": "Font attribute table",
+        "choice4": "Format allocation table",
+        "answer": 2
+    },
+    {
+        "quistion": "BIOS is used?",
+        "choice1": "By operating system",
+        "choice2": "By compiler",
+        "choice3": "By interpreter",
+        "choice4": "By application software",
+        "answer": 1
+    },
+    {
+        "quistion": "What is the mean of the Booting in the operating system?",
+        "choice1": "To turn off",
+        "choice2": "To scan",
+        "choice3": "Install the program",
+        "choice4": "Restarting computer",
+        "answer": 4
+    },
+    {
+        "quistion": "What else is a command interpreter called?",
+        "choice1": "command",
+        "choice2": "prompt",
+        "choice3": "shell",
+        "choice4": "kernel",
+        "answer": 3
+    },
+    {
+        "quistion": "When you delete a file in your computer, where does it go?",
+        "choice1": "Hard disk",
+        "choice2": "Taskbar",
+        "choice3": "Recycle bin",
+        "choice4": "None of the Above",
+        "answer": 3
+    },
+    {
+        "quistion": "Which is the Linux operating system?",
+        "choice1": "Private operating system",
+        "choice2": "Open-source operating system",
+        "choice3": "Windows operating system",
+        "choice4": "None of the above",
+        "answer": 2
+    }
+]

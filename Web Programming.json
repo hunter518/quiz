@@ -1,0 +1,81 @@
+[
+    {
+    "quistion": "What is the preferred way for adding a background color in HTML?",
+    "choice1": "<body background='yellow'>",
+    "choice2": "<background>yellow</background>",
+    "choice3": "<body style='background-color:yellow'>",
+    "choice4": "<background color='yellow'>text<background>",
+    "answer": 3
+},
+{
+    "quistion": "What is the correct HTML for creating a hyperlink?",
+    "choice1": "<a name=' '>A</a>",
+    "choice2": "<a>B</a>",
+    "choice3": "<a href='http://www.example.com'>example</a>",
+    "choice4": "<a url='http://www.example.com'>example</a>",
+    "answer": 3
+},
+{
+    "quistion": "How can you create an e-mail link?",
+    "choice1": "mail href='a@b'>",
+    "choice2": "<mail>a@b</mail>",
+    "choice3": "<a href='a@b'>",
+    "choice4": "<a href='mailto:a@b.com'>",
+    "answer": 4
+},
+{
+    "quistion": "How can you open a link in a new browser window?",
+    "choice1": "<a href='url' new>",
+    "choice2": "<a href='url' target='new'>",
+    "choice3": "<a href='url' target='_blank'>",
+    "choice4": "<a href='url' target=' '>",
+    "answer": 3
+},
+{
+    "quistion": "Which of these tags are all <table> tags?",
+    "choice1": "<table><head><tfoot>",
+    "choice2": "<table><tr><td>",
+    "choice3": "<table><tr><tt>",
+    "choice4": "<thead><body><tr>",
+    "answer": 2
+},
+{
+    "quistion": "Which of the following JavaScript cannot do?",
+    "choice1": "JavaScript can react to events",
+    "choice2": "JavaScript can manipulate HTML elements",
+    "choice3": "JavaScript can manipulate HTML elementsYoung",
+    "choice4": "All of the Above",
+    "answer": 4
+},
+{
+    "quistion": "Whats so great about XML?",
+    "choice1": "Easy data exchange",
+    "choice2": "High speed on network",
+    "choice3": "Only B is correct",
+    "choice4": "Both A and B ",
+    "answer": 4
+},
+{
+    "quistion": "Which is not a property of attribute Behaviour of <Marquee> tag?",
+    "choice1": "alternate",
+    "choice2": "blur",
+    "choice3": "slide",
+    "choice4": "scroll",
+    "answer": 2
+},
+{
+    "quistion": "_________ keyword is used to declare variables in javascript.",
+    "choice1": "Dim",
+    "choice2": "Var",
+    "choice3": "String",
+    "choice4": "None of the Above",
+    "answer": 2
+},
+{
+    "quistion": "The attribute used to define a new namespace is.",
+    "choice1": "XMLNS",
+    "choice2": "XmlNameSpace",
+    "choice3": "Xmlns",
+    "choice4": "XmlNs",
+    "answer": 3
+}]

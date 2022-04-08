@@ -1,0 +1,80 @@
+{
+    quistion: "Jono   : ____________ is your name?Johny : My name is Johny.",
+    choice1: "What",
+    choice2: "Why",
+    choice3: "My",
+    choice4: "Where",
+    answer: 1
+}
+{
+    quistion: "Mr. Zaka    : _________________ are you late?  Sayyaf  : I am late because I woke up late.",
+    choice1: "What",
+    choice2: "Why",
+    choice3: "when",
+    choice4: "Where",
+    answer: 2
+}
+{
+    quistion: "The correct use of capital letters is in the sentence ___________________ .",
+    choice1: "My name is Kiko",
+    choice2: "My name Is Kiko.",
+    choice3: "My Name Is Kiko.",
+    choice4: "My Name is kiko.",
+    answer: 1
+}
+{
+    quistion: "I like playing soccer.What is verb in given sentence?",
+    choice1: "like",
+    choice2: "I",
+    choice3: "playing",
+    choice4: "soccer",
+    answer: 3
+}
+{
+    quistion: "He is sick.The past tense of the sentence above is",
+    choice1: "He were sick.",
+    choice2: "He are sick.",
+    choice3: "He was sick.",
+    choice4: "He am sick.",
+    answer: 3
+}
+{
+    quistion: "The opposite of 'new' is _____________________ .",
+    choice1: "Bad",
+    choice2: "Old",
+    choice3: "Young",
+    choice4: "Good",
+    answer: 2
+},
+{
+    quistion: "I see a falling airplane yesterday.The verb above is incorrect. The correct one is ________________ .",
+    choice1: "Saw",
+    choice2: "Seed",
+    choice3: "Seeing",
+    choice4: "Seen",
+    answer: 1
+},
+{
+    quistion: "The correct order of words on dictionary is ________________________ .",
+    choice1: "Bank - ball - bad - Bangkok",
+    choice2: "Bangkok - bad - ball - bank",
+    choice3: "Bad - ball - Bangkok - bank",
+    choice4: "Ball - Bangkok - bad - ball",
+    answer: 3
+},
+{
+    quistion: "Which one do you choose? Reading book _______ watching TV?The correct joining word is __________________ .",
+    choice1: "And",
+    choice2: "But",
+    choice3: "Because",
+    choice4: "Or",
+    answer: 4
+},
+{
+    quistion: "My teeth are ___ sharp as knife.",
+    choice1: "So",
+    choice2: "Or",
+    choice3: "But",
+    choice4: "As",
+    answer: 4
+}
